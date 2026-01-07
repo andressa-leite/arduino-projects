@@ -1,2 +1,33 @@
-# arduino-projects
-This repository showcases my foundational knowledge of C++. Each project includes a link that demonstrates how the project looks when it is running.
+# Arduino Projects 🚦
+
+Este repositório apresenta meus projetos iniciais em **Arduino**, desenvolvidos com **C++**, com o objetivo de demonstrar meus conhecimentos fundamentais em lógica de programação, eletrônica básica e controle de hardware.
+
+Cada projeto inclui um link para um vídeo demonstrando seu funcionamento em tempo real.
+
+---
+
+## 📌 Projetos
+
+
+▶️ **Demonstração em vídeo:**  
+https://youtu.be/nP73_CMWS5A (TRAFFIC LIGTH)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- Arduino
+- C++
+- LEDs
+- Resistores
+- Protoboard
+
+---
+
+## 🎯 Objetivo
+Este repositório tem como objetivo documentar minha evolução no aprendizado de Arduino e C++, servindo como base para projetos mais avançados no futuro.
+
+---
+
+## 📄 Licença
+Este projeto é de uso educacional e pessoal.
+
