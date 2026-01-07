@@ -10,7 +10,9 @@ Cada projeto inclui um link para um vídeo demonstrando seu funcionamento em tem
 
 
 ▶️ **Demonstração em vídeo:**  
-https://youtu.be/nP73_CMWS5A (TRAFFIC LIGTH)
+<a href="https://youtu.be/nP73_CMWS5A" target="_blank">
+  Ver demonstração do projeto
+</a>
 
 ---
 
